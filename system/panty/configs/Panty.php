@@ -38,3 +38,5 @@ define('IDD', 153985); // IDD starpass
 
 if (!defined('PANTY_THEME'))
 	define('PANTY_THEME', 'ragefull'); // Thème du CMS
+	
+define('USE_SHOP', FALSE); // Utilisation de la boutique ou pas ?
